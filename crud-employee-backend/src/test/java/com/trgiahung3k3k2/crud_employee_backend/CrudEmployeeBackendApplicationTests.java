@@ -1,10 +1,10 @@
-package com.tghung30302.crud_employee_react_spring;
+package com.trgiahung3k3k2.crud_employee_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudEmployeeReactSpringApplicationTests {
+class CrudEmployeeBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

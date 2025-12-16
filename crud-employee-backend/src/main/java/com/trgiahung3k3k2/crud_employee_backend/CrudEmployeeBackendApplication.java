@@ -1,13 +1,13 @@
-package com.tghung30302.crud_employee_react_spring;
+package com.trgiahung3k3k2.crud_employee_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudEmployeeReactSpringApplication {
+public class CrudEmployeeBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudEmployeeReactSpringApplication.class, args);
+		SpringApplication.run(CrudEmployeeBackendApplication.class, args);
 	}
 
 }
